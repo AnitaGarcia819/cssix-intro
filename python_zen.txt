@@ -1,7 +1,7 @@
 
 The Zen of Python, by Tim Peters
 
-Beautiful is better than ______.
+Beautiful is better than _____________.
 Explicit is better than _______.
 Simple is better than ______.
 Complex is better than _________.
