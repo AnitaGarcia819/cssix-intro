@@ -7,12 +7,12 @@ Explicit is better than implicit.
 Simple is better than complex.
 Complex is better than complicated.
 Flat is better than nested.
-Sparse is better than _______.
+Sparse is better than dense.
 Sparse is better than dense.
 Readability counts.
 Special cases aren't special enough to break the rules.
 Although practicality beats purity.
-Errors should never pass ________.
+Errors should never pass silently.
 Unless explicitly silenced.
 In the face of ambiguity, refuse the temptation to ______.
 There should be one-- and preferably only one --obvious way to do it.
